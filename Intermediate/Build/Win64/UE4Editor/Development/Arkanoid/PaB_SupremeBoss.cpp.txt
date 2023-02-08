@@ -1,0 +1,3 @@
+C:\Users\Usuario\Desktop\Arkanoid - copia\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+C:\Users\Usuario\Desktop\Arkanoid - copia\Source\Arkanoid\PaB_SupremeBoss.h
+C:\Users\Usuario\Desktop\Arkanoid - copia\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaB_SupremeBoss.generated.h

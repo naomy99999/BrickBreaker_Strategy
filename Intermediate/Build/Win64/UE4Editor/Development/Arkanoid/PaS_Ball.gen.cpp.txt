@@ -1,0 +1,9 @@
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\verano\Strategy\Source\Arkanoid/PaS_Ball.h
+C:\verano\Strategy\Source\Arkanoid\Ball.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\Ball.generated.h
+C:\verano\Strategy\Source\Arkanoid\InterfaceDesdoblarBall.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\InterfaceDesdoblarBall.generated.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaS_Ball.generated.h

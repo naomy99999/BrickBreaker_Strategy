@@ -1,0 +1,5 @@
+C:\Users\Usuario\Desktop\Arkanoid - copia\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+C:\Users\Usuario\Desktop\Arkanoid - copia\Source\Arkanoid\PaFM_AntiLifeCapsule.h
+C:\Users\Usuario\Desktop\Arkanoid - copia\Source\Arkanoid\PaFM_Capsule.h
+C:\Users\Usuario\Desktop\Arkanoid - copia\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_Capsule.generated.h
+C:\Users\Usuario\Desktop\Arkanoid - copia\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_AntiLifeCapsule.generated.h

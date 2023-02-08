@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Usuario\Desktop\Arkanoid\Source\Arkanoid/PaFM_DamageCapsuleCreator.h
+C:\Users\Usuario\Desktop\Arkanoid\Source\Arkanoid\PaFM_CapsuleCreator.h
+C:\Users\Usuario\Desktop\Arkanoid\Source\Arkanoid\PaFM_Capsule.h
+C:\Users\Usuario\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_Capsule.generated.h
+C:\Users\Usuario\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_CapsuleCreator.generated.h
+C:\Users\Usuario\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_DamageCapsuleCreator.generated.h

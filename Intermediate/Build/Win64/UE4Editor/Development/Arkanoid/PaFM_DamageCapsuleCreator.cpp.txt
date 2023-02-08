@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+C:\Users\Usuario\Desktop\Arkanoid\Source\Arkanoid\PaFM_DamageCapsuleCreator.h
+C:\Users\Usuario\Desktop\Arkanoid\Source\Arkanoid\PaFM_CapsuleCreator.h
+C:\Users\Usuario\Desktop\Arkanoid\Source\Arkanoid\PaFM_Capsule.h
+C:\Users\Usuario\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_Capsule.generated.h
+C:\Users\Usuario\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_CapsuleCreator.generated.h
+C:\Users\Usuario\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_DamageCapsuleCreator.generated.h
+C:\Users\Usuario\Desktop\Arkanoid\Source\Arkanoid\PaFM_TripleBallCapsule.h
+C:\Users\Usuario\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_TripleBallCapsule.generated.h
+C:\Users\Usuario\Desktop\Arkanoid\Source\Arkanoid\PaFM_EscalationCapsule.h
+C:\Users\Usuario\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_EscalationCapsule.generated.h
+C:\Users\Usuario\Desktop\Arkanoid\Source\Arkanoid\PaFM_LifeCapsule.h
+C:\Users\Usuario\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_LifeCapsule.generated.h
+C:\Users\Usuario\Desktop\Arkanoid\Source\Arkanoid\PaFM_FiringCapsule.h
+C:\Users\Usuario\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_FiringCapsule.generated.h

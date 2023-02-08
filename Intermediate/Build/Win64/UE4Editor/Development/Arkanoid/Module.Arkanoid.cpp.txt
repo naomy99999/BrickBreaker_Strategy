@@ -1,0 +1,120 @@
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+C:/verano/Strategy/Source/Arkanoid/Arkanoid.cpp
+C:\verano\Strategy\Source\Arkanoid\Arkanoid.h
+C:/verano/Strategy/Source/Arkanoid/ArkanoidGameModeBase.cpp
+C:\verano\Strategy\Source\Arkanoid\ArkanoidGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\ArkanoidGameModeBase.generated.h
+C:\verano\Strategy\Source\Arkanoid\Brick.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\Brick.generated.h
+C:/verano/Strategy/Source/Arkanoid/Ball.cpp
+C:\verano\Strategy\Source\Arkanoid\Ball.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\Ball.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+C:/verano/Strategy/Source/Arkanoid/BallBound.cpp
+C:\verano\Strategy\Source\Arkanoid\BallBound.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\BallBound.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\verano\Strategy\Source\Arkanoid\PaddlePlayerController.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaddlePlayerController.generated.h
+C:/verano/Strategy/Source/Arkanoid/Brick.cpp
+C:\verano\Strategy\Source\Arkanoid\Projectile.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\Projectile.generated.h
+C:\verano\Strategy\Source\Arkanoid\PaFM_HelpCapsuleCreator.h
+C:\verano\Strategy\Source\Arkanoid\PaFM_CapsuleCreator.h
+C:\verano\Strategy\Source\Arkanoid\PaFM_Capsule.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_Capsule.generated.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_CapsuleCreator.generated.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_HelpCapsuleCreator.generated.h
+C:\verano\Strategy\Source\Arkanoid\PaFM_AntiHelpCapsuleCreator.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_AntiHelpCapsuleCreator.generated.h
+C:/verano/Strategy/Source/Arkanoid/BrickBoss.cpp
+C:\verano\Strategy\Source\Arkanoid\BrickBoss.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\BrickBoss.generated.h
+C:/verano/Strategy/Source/Arkanoid/HelpPlatform.cpp
+C:\verano\Strategy\Source\Arkanoid\HelpPlatform.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\HelpPlatform.generated.h
+C:/verano/Strategy/Source/Arkanoid/InterfaceDesdoblarBall.cpp
+C:\verano\Strategy\Source\Arkanoid\InterfaceDesdoblarBall.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\InterfaceDesdoblarBall.generated.h
+C:/verano/Strategy/Source/Arkanoid/InterfaceOverlord.cpp
+C:\verano\Strategy\Source\Arkanoid\InterfaceOverlord.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\InterfaceOverlord.generated.h
+C:/verano/Strategy/Source/Arkanoid/PaB_InterfaceBoss.cpp
+C:\verano\Strategy\Source\Arkanoid\PaB_InterfaceBoss.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaB_InterfaceBoss.generated.h
+C:/verano/Strategy/Source/Arkanoid/PaB_InterfaceSupremeBossBuilder.cpp
+C:\verano\Strategy\Source\Arkanoid\PaB_InterfaceSupremeBossBuilder.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaB_InterfaceSupremeBossBuilder.generated.h
+C:/verano/Strategy/Source/Arkanoid/PaB_Nivel01_OverlordBuilder.cpp
+C:\verano\Strategy\Source\Arkanoid\PaB_Nivel01_OverlordBuilder.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaB_Nivel01_OverlordBuilder.generated.h
+C:/verano/Strategy/Source/Arkanoid/PaB_SupremeBoss.cpp
+C:\verano\Strategy\Source\Arkanoid\PaB_SupremeBoss.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaB_SupremeBoss.generated.h
+C:/verano/Strategy/Source/Arkanoid/Paddle.cpp
+C:\verano\Strategy\Source\Arkanoid\Paddle.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\Paddle.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/FloatingPawnMovement.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAgentInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FloatingPawnMovement.generated.h
+C:/verano/Strategy/Source/Arkanoid/PaFM_AntiEscalationCapsule.cpp
+C:\verano\Strategy\Source\Arkanoid\PaFM_AntiEscalationCapsule.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_AntiEscalationCapsule.generated.h
+C:/verano/Strategy/Source/Arkanoid/PaFM_AntiHelpCapsuleCreator.cpp
+C:\verano\Strategy\Source\Arkanoid\PaFM_AntiLifeCapsule.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_AntiLifeCapsule.generated.h
+C:\verano\Strategy\Source\Arkanoid\PaFM_AntiSpeedCapsule.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_AntiSpeedCapsule.generated.h
+C:/verano/Strategy/Source/Arkanoid/PaFM_AntiLifeCapsule.cpp
+C:/verano/Strategy/Source/Arkanoid/PaFM_AntiSpeedCapsule.cpp
+C:/verano/Strategy/Source/Arkanoid/PaFM_Capsule.cpp
+C:/verano/Strategy/Source/Arkanoid/PaFM_CapsuleCreator.cpp
+C:/verano/Strategy/Source/Arkanoid/PaFM_DoubleCapsule.cpp
+C:\verano\Strategy\Source\Arkanoid\PaFM_DoubleCapsule.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_DoubleCapsule.generated.h
+C:/verano/Strategy/Source/Arkanoid/PaFM_EscalationCapsule.cpp
+C:\verano\Strategy\Source\Arkanoid\PaFM_EscalationCapsule.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_EscalationCapsule.generated.h
+C:/verano/Strategy/Source/Arkanoid/PaFM_FiringCapsule.cpp
+C:\verano\Strategy\Source\Arkanoid\PaFM_FiringCapsule.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_FiringCapsule.generated.h
+C:/verano/Strategy/Source/Arkanoid/PaFM_HelpCapsuleCreator.cpp
+C:\verano\Strategy\Source\Arkanoid\PaFM_TripleBallCapsule.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_TripleBallCapsule.generated.h
+C:\verano\Strategy\Source\Arkanoid\PaFM_LifeCapsule.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_LifeCapsule.generated.h
+C:\verano\Strategy\Source\Arkanoid\PaFM_PlatformCapsule.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_PlatformCapsule.generated.h
+C:\verano\Strategy\Source\Arkanoid\PaFM_SpeedCapsule.h
+C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaFM_SpeedCapsule.generated.h
+C:/verano/Strategy/Source/Arkanoid/PaFM_LifeCapsule.cpp
+C:/verano/Strategy/Source/Arkanoid/PaFM_PlatformCapsule.cpp
+C:/verano/Strategy/Source/Arkanoid/PaFM_SpeedCapsule.cpp
+C:/verano/Strategy/Source/Arkanoid/PaFM_TripleBallCapsule.cpp
+C:/verano/Strategy/Source/Arkanoid/Projectile.cpp

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Arkanoid-4379.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\verano\Strategy\Intermediate\Build\Win64\ArkanoidEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\PaddlePlayerController.cpp.obj"
+"C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\PaS_Ball.cpp.obj"
+"C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\PaS_DesdoblarBall.cpp.obj"
+"C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Module.Arkanoid.cpp.obj"
+"C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Module.Arkanoid.gen.cpp.obj"
+"C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Default.rc2.res"
+/OUT:"C:\verano\Strategy\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\UE4Editor-Arkanoid-4379.lib"
